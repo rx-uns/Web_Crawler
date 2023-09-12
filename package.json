@@ -19,5 +19,8 @@
   "homepage": "https://github.com/rx-uns/Web_Crawler#readme",
   "devDependencies": {
     "jest": "^29.6.4"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
   }
 }
